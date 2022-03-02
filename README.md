@@ -5,3 +5,15 @@
 ### Welcome to SDV
 
 **Tristan Bulmer**
+
+1. Thing-One
+2. Thing-Two
+3. Thing-Three
+
+* Something
+* Some other thing
+  * Some other other thing
+
+- [x] Task One
+- [x] Task Two
+- [ ] Task Three
