@@ -17,3 +17,7 @@
 - [x] Task One
 - [x] Task Two
 - [ ] Task Three
+
+https://supedb.great-site.net/index.php
+
+[SupeDB/WikiSupe](https://supedb.great-site.net/index.php)
