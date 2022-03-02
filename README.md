@@ -21,3 +21,5 @@
 https://supedb.great-site.net/index.php
 
 [SupeDB/WikiSupe](https://supedb.great-site.net/index.php)
+
+```console.log("Hello there!")```
